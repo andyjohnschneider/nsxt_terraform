@@ -1,0 +1,5 @@
+nsx_manager           = "nsx-site1b.andyjs.ch"
+nsx_username          = "admin"
+nsx_password          = "VMware1!VMware1!"
+region_name           = "Region1"
+site_name             = "Site1b"
